@@ -100,5 +100,3 @@ SSH into the control node and follow the steps below:
 - Copy the configuration file to webserver.
 - Update the hosts file to include the IP address of the ELK stack VM.
 - Run the playbook, and navigate to the http://your.ELK.VM.IP/app/kibana to check that the installation worked as expected.
-
-To run the playbook, initiate the following command: ansible-playbook install-elk.yml
